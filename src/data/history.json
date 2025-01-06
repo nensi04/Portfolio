@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Mobile App Developer",
+      "organisation": "Arihant AI",
+      "startDate": "Dec, 2024",
+      "endDate": "May,2024",
+      "experiences": ["Created Ecommerce project","Work on Live Project"],
+      "imageSrc": "/assets/history/Arihant.png"
+    },
+    {
+      "role": "Jr.Full Satck Developer",
+      "organisation": "Spexion technologies",
+      "startDate": "Jun,2024",
+      "endDate": "Present",
+      "experiences": ["Worked on App Developement","Worked on web Development"],
+      "imageSrc": "/assets/history/spexion.jpg"
+    }
+   
+  ]

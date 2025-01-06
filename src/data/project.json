@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Ecommerce Application",
+      "imageSrc": "/assets/projects/project.png",
+      "description": "This Project is for Online shopping",
+      "skills": ["React Native"]
+     
+    },
+    {
+      "title": "Portfolio",
+      "imageSrc": "/assets/projects/project.png",
+      "description": "This website that display the information of myself",
+    "skills": ["React"]
+      
+    },
+    {
+      "title": "Weather Application",
+      "imageSrc": "../../assets/projects/project.png",
+      "description": "This project is dispaly  the weather of city.",
+      "skills": ["Express", "Node"]
+     
+    }
+  ]
